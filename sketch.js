@@ -8,7 +8,7 @@ wall = createSprite(1200,200,60,100);
 
   car.velocityX = 9;
 
- speed=random(25,31);
+ speed=random(55,90);
  weight=random(400,1500);
 
 }
